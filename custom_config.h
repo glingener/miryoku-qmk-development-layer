@@ -6,7 +6,7 @@
 #pragma once
 
 #define MIRYOKU_LAYER_MOUSE \
-KC_AT,             KC_LABK,           KC_RABK,           KC_PLUS,           KC_DQUO,           KC_PERC,           KC_LBRC,               KC_RBRC,               KC_PIPE,           KC_F11,             \
-KC_EXLM,           KC_MINS,           KC_UNDS,           KC_EQL,            KC_QUOT,           KC_DLR,            KC_LPRN,               KC_RPRN,               KC_COLN,           KC_AMPR,            \
-U_NA,              KC_SLSH,           KC_ASTR,           KC_CIRC,           KC_HASH,           KC_BSLS,           KC_LCBR,               KC_RCBR,               KC_TILD,           U_NA,               \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_SPC,            KC_BSPC,               KC_DEL,                U_NP,              U_NP
+KC_AT,             KC_LABK,           KC_RABK,           KC_PLUS,           KC_DQUO,            KC_PERC,           KC_LBRC,               KC_RBRC,               KC_PIPE,           KC_F11,             \
+KC_MINS,           KC_UNDS,           KC_DLR,            KC_EQL,            KC_QUOT,            KC_EXLM,           KC_LPRN,               KC_RPRN,               KC_SCLN,           KC_COLN,            \
+KC_BSLS,           KC_SLSH,           KC_ASTR,           KC_CIRC,           KC_HASH,            KC_AMPR,           KC_LCBR,               KC_RCBR,               KC_TILD,           U_NA,               \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,               KC_SPC,            KC_BSPC,               KC_DEL,                U_NP,              U_NP
